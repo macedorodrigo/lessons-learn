@@ -4,35 +4,38 @@
 }
 body {
   background-color: rgb(253, 251, 251);
+ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 }
 header {
-  color: navy;
-  font-size: 18px;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  background-color: rgb(26, 199, 26);
 }
 .textrecuo {
   text-indent: 40px;
 }
 #cabecalho {
-  border: 2px solid black;
   position: fixed;
   width:100%;
   top: 0;
+  padding-top: 15px;
+  padding-bottom: 15px;
   text-indent: 40px;
+  text-align: center;
 }
 #minha_foto {
-  margin-top: 55px;
+  margin-top: 90px;
   width: 200px;
-}
-#licoes_aprendidas {
-  margin-left: 25px;
-}
-#licoes_a_aprender {
-}
-#rodape {
-  font-size: 30px;
+  }
+main{
+  display:block;
 }
 footer, a {
   text-decoration: none;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(26, 199, 26);
 }
 table{
   text-align: center;
@@ -43,6 +46,4 @@ table{
   justify-content: center;
 }
 lateral{
-  display: flex;
-  ;
 }
