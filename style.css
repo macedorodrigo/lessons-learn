@@ -32,18 +32,22 @@ main{
 }
 footer, a {
   text-decoration: none;
+  color: aliceblue;
   font-size: 30px;
   display: flex;
   justify-content: center;
   background-color: rgb(26, 199, 26);
-}
-table{
+  margin-top:10px;
   text-align: center;
-  margin-top: 20px;
 }
+footer{
+  border-top: 0.5px solid black;
+}
+
 .tabela{
   display: flex;
   justify-content: center;
+  text-align: center;
 }
 lateral{
 }
