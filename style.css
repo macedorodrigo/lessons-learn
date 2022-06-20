@@ -6,7 +6,6 @@ body{
   background-color: rgb(253, 251, 251);
 }
 #cabecalho{
-  margin-top: 0px;
   border: 2px solid black;
   position:fixed;
   top: 0;
@@ -15,4 +14,8 @@ body{
   border: 2px solid black;
   display: flex;
   align-items: center;
+}
+#minha_foto{
+  margin-top: 50px;
+  width: 200px;
 }
