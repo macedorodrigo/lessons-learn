@@ -2,32 +2,32 @@
   margin: 0;
   padding: 0;
 }
-body{
+body {
   background-color: rgb(253, 251, 251);
+  font-family:'Times New Roman', Times, serif;
 }
-.textrecuo{
- text-indent: 40px;
+.textrecuo {
+  text-indent: 40px;
 }
-#cabecalho{
+#cabecalho {
   border: 2px solid black;
-  position:fixed;
+  position: fixed;
   top: 0;
 }
-#titulo{
+#titulo {
   border: 2px solid black;
   display: flex;
   align-items: center;
 }
-#minha_foto{
+#minha_foto {
   margin-top: 50px;
   width: 200px;
 }
-#licoes_aprendidas{
+#licoes_aprendidas {
   margin-left: 25px;
 }
-#licoes_a_aprender{
-
+#licoes_a_aprender {
 }
-#rodape{
+#rodape {
   font-size: 30px;
 }
