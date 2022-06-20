@@ -5,6 +5,9 @@
 body{
   background-color: rgb(253, 251, 251);
 }
+.textrecuo{
+ text-indent: 40px;
+}
 #cabecalho{
   border: 2px solid black;
   position:fixed;
