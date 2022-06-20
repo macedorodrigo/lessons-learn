@@ -4,7 +4,10 @@
 }
 body {
   background-color: rgb(253, 251, 251);
-  font-family:'Times New Roman', Times, serif;
+}
+header {
+  color: navy;
+  font-size: 18px;
 }
 .textrecuo {
   text-indent: 40px;
@@ -12,15 +15,12 @@ body {
 #cabecalho {
   border: 2px solid black;
   position: fixed;
+  width:100%;
   top: 0;
-}
-#titulo {
-  border: 2px solid black;
-  display: flex;
-  align-items: center;
+  text-indent: 40px;
 }
 #minha_foto {
-  margin-top: 50px;
+  margin-top: 55px;
   width: 200px;
 }
 #licoes_aprendidas {
@@ -30,4 +30,19 @@ body {
 }
 #rodape {
   font-size: 30px;
+}
+footer, a {
+  text-decoration: none;
+}
+table{
+  text-align: center;
+  margin-top: 20px;
+}
+.tabela{
+  display: flex;
+  justify-content: center;
+}
+lateral{
+  display: flex;
+  ;
 }
