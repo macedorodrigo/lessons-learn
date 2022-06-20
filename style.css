@@ -4,7 +4,7 @@
 }
 body {
   background-color: rgb(253, 251, 251);
- font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 header {
   color: rgb(255, 255, 255);
@@ -16,7 +16,7 @@ header {
 }
 #cabecalho {
   position: fixed;
-  width:100%;
+  width: 100%;
   top: 0;
   padding-top: 15px;
   padding-bottom: 15px;
@@ -26,33 +26,42 @@ header {
 #minha_foto {
   margin-top: 90px;
   width: 200px;
-  }
-main{
-  display:block;
-  margin-left: 30px;
-  display:contents;
 }
-p{
+main {
+  display: block;
+  margin-left: 30px;
+  display: contents;
+}
+p {
   line-height: 18px;
 }
-footer, a {
+footer,
+a {
   text-decoration: none;
   color: aliceblue;
   font-size: 30px;
   display: flex;
   justify-content: center;
   background-color: rgb(26, 199, 26);
-  margin-top:10px;
+  margin-top: 10px;
   text-size-adjust: automático;
 }
-footer{
+footer {
   border-top: 0.5px solid black;
 }
 
-.tabela{
+.tabela {
   display: flex;
   justify-content: center;
   text-align: center;
 }
-lateral{
+.lateral {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  margin: auto;
+  float: right;
+  font-style: italic;
+  border: 2px solid black;
+  background-color: lightgray;
 }
