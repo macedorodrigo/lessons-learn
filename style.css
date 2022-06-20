@@ -29,6 +29,10 @@ header {
   }
 main{
   display:block;
+  margin-left: 30px;
+}
+p{
+  line-height: 18px;
 }
 footer, a {
   text-decoration: none;
@@ -38,7 +42,7 @@ footer, a {
   justify-content: center;
   background-color: rgb(26, 199, 26);
   margin-top:10px;
-  text-align: center;
+  text-size-adjust: automático;
 }
 footer{
   border-top: 0.5px solid black;
