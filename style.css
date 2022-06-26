@@ -53,24 +53,18 @@ footer {
 
 .tabela {
   display: flex;
-  justify-content: center;
-  text-align: center;
 }
 .lateral {
   width: 40%;
-
 }
-.aprendizado{
+.aprendizado {
   width: 40%;
-  
-
 }
-.requisito15{
+.requisito15 {
   display: flex;
   justify-content: space-between;
-  color: red; 
 }
-p{
+p {
   text-align: center;
   text-align: justify;
 }
