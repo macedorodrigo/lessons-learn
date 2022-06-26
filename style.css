@@ -57,13 +57,23 @@ footer {
   text-align: center;
 }
 .lateral {
-  width: 30%;
-  margin-top: 95px;
-  margin-left: 60%;
-  float: right;
-  font-style: italic;
-  border: 2px solid black;
-  background-color: lightgray;
-  position: relative;
-  position: fixed;
+  width: 40%;
+
+}
+.aprendizado{
+  width: 40%;
+  
+
+}
+.requisito15{
+  display: flex;
+  justify-content: space-between;
+  color: red; 
+}
+p{
+  text-align: center;
+  text-align: justify;
+}
+h2 {
+  text-align: center;
 }
