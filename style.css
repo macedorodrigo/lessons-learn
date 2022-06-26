@@ -56,13 +56,13 @@ footer {
 }
 .lateral {
   width: 40%;
+  margin-left: 5%;
 }
 .aprendizado {
   width: 40%;
 }
 .requisito15 {
   display: flex;
-  justify-content: space-between;
 }
 p {
   text-align: center;
