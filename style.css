@@ -28,7 +28,7 @@ header {
   width: 200px;
 }
 main {
-  display: block;
+  display: flex;
   margin-left: 12%;
   flex-direction: column;
   align-items: flex-start;
@@ -54,15 +54,16 @@ footer {
 .tabela {
   display: flex;
 }
-.lateral {
+.lado-direito {
   width: 40%;
   margin-left: 5%;
 }
-.aprendizado {
+.lado-esquerdo {
   width: 40%;
 }
 .requisito15 {
   display: flex;
+  margin-bottom: 30px;
 }
 p {
   text-align: center;
