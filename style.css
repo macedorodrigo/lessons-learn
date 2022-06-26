@@ -60,11 +60,12 @@ footer {
 .lateral {
   width: 30%;
   margin-top: 95px;
-  margin-left: 55%;
+  margin-left: 60%;
   float: right;
   font-style: italic;
   border: 2px solid black;
   background-color: lightgray;
   position: relative;
   float: right;
+  position: fixed;
 }
