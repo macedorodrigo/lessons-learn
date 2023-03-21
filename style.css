@@ -32,6 +32,11 @@ header {
   text-align: center;
 }
 
+#whatsapp {
+  border: solid black .5px;
+  padin: 0;
+}
+
 #minha_foto {
   margin-top: 80px;
   width: 200px;
